@@ -1,0 +1,2 @@
+this folder contains three files one of them contain the scrapper details that is used to extract the data from google for training the model.
+the other file contains the requriements that we need to run the project and the third file contain code related to an activity to be prepared for android.
